@@ -4,4 +4,4 @@ title: About StaticWebExperts
 comments: false
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+Welcome to my blog about Static web sites. In this blog you will learn about Jekyll and Github pages among other things as well as how to build a new website using both of those that will be beautiful, secure, fast and reliable. With Github pages you can create a website get a free domain and also get free hosting.
