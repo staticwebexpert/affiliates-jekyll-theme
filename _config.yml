@@ -11,6 +11,7 @@ google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
+
 # Authors
 authors:
   fraser:
@@ -34,6 +35,7 @@ authors:
 plugins: 
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-seo-tag
     
 # Archives
 jekyll-archives:
