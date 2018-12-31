@@ -2,8 +2,7 @@
 layout: post
 title:  "Learn How to Make a Website"
 author: fraser
-categories: Jekyll
-tags: [Freehosting, Freeurl, Secure, Fast, Costeffective, Reliable, Tenminutewebsite]
+categories: [Jekyll, Tutorial, Freehosting, Freeurl, Secure, Fast, Costeffective, Reliable, Tenminutewebsite]
 image: assets/images/6.jpg
 ---
 In this tutorial I will show you how to make you free website with Jekyll and Github Pages.
