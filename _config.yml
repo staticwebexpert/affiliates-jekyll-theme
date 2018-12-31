@@ -5,7 +5,7 @@ meta_description: "Learn how to build a website with a Free Domain and Free Host
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: 'https://staticwebexpert.github.io'
+baseurl: #'https://staticwebexpert.github.io'
 email: 'staticwebexpert@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -13,7 +13,7 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 
 # Authors
 authors:
-  sal:
+  fraser:
     name: Fraser
     display_name: Fraser
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
