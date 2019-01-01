@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Learn How To SEO Jekyll Website"
 categories: [ Jekyll, Tutorial, SEOWebsite ]
 image: assets/images/1.jpg
 featured: true
