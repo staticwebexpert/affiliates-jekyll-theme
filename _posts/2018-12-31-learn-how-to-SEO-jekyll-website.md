@@ -5,8 +5,9 @@ categories: [ Jekyll, Tutorial, SEOWebsite ]
 image: assets/images/1.jpg
 featured: true
 ---
-## Learn How to SEO your Jekyll Website.
+## Learn How to SEO your Jekyll Website
 
 ### SEO Tag Plugin
 
-The Jekyll-SEO plugin is the best way to set all meta tags you need for SEO.
+The Jekyll-SEO plugin is the best way to set all meta tags you need for SEO. Add a {% SEO %} Liquid tag in the <head>.
+Then in the page front matter add title and description.
