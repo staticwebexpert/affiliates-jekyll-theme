@@ -17,9 +17,14 @@ Then in the page front matter add title and description.
 Sitemaps help search engines find content on your website. You can generate a sitemap using the Jekyll sitemap plugin.
 
 __Example__
+
+The following would be placed in your config.yml file.
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  
+
+
+
 The SEO tag installation process is described [here.](https://github.com/jekyll/jekyll-seo-tag)
     
