@@ -21,7 +21,7 @@ Faster than any Wordpress site. Your website will perform much faster, as the se
 ##### What are you waiting for? Go CMS Free
 Do have a business, documentation, blog or personal website you would like to build in Jekyll or convert from Wordpress to Jekyll?
 
-[Learn how](/jekyll/tutorial/freehosting/freeurl/securewebsite/fastwebsite/reliablewebsite/tenminutewebsite/2018/12/30/learn-how-to-make-website-in-10-minutes.html) to build a Jekyll site on Github pages in 10 minutes
+[Learn how](/jekyll/tutorial/freehosting/freeurl/securewebsite/fastwebsite/reliablewebsite/tenminutewebsite/2018/12/30/learn-how-to-make-website-in-10-minutes.html) to build a Jekyll site on Github pages in 10 minutes.
 
 
 
