@@ -9,7 +9,7 @@ featured: true
 
 ### SEO Tag Plugin
 
-The Jekyll-SEO plugin is the best way to set all meta tags you need for SEO. Add a *{% SEO %}* Liquid tag in the <head>.
+The Jekyll SEO plugin is the best way to set all meta tags you need for SEO. Add a  Liquid tag in the <head>.
 Then in the page front matter add title and description.
   
 ### Sitemap
