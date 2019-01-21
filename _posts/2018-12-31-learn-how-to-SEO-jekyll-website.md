@@ -5,8 +5,8 @@ categories: [ Jekyll, Tutorial, SEOWebsite ]
 image: assets/images/1.jpg
 featured: true
 ---
-Learn How to SEO your Jekyll Website.
+##Learn How to SEO your Jekyll Website.
 
-**SEO Tag Plugin
+###SEO Tag Plugin
 
 The Jekyll-SEO plugin is the best way to set all meta tags you need for SEO.
