@@ -11,3 +11,7 @@ featured: true
 
 The Jekyll-SEO plugin is the best way to set all meta tags you need for SEO. Add a {% SEO %} Liquid tag in the <head>.
 Then in the page front matter add title and description.
+  
+### Sitemap
+
+Sitemaps help search engines find content on your website. You can generate a sitemap using the Jekyll sitemap plugin.
