@@ -1,7 +1,7 @@
 # Site
-name: StaticWebExperts
-description: StaticWebExperts Blog
-meta_description: "Learn how to build a website with a Free Domain and Free Hosting in 10 minutes."
+name: 59 Trails
+description: 59 Trails Original Artwork
+meta_description: "Design, Illustration and Lettering.
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
@@ -20,8 +20,8 @@ authors:
     gravatar: 8b6c6542ce3e9b40a71d317e1b2fdffa
     email: staticwebexpert@gmail.com
     web: https://modernwebbuilders.github.io
-    twitter: https://twitter.com/modernwebbuild1
-    description: "Author for StaticWebExperts and ModernWebBuilders"
+    twitter: https://twitter.com/59trails
+    description: "Author for 59 Trails"
   #john:
    # name: John
     #display_name: John
